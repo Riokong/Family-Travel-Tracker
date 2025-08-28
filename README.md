@@ -26,8 +26,6 @@ Family-Travel-Tracker/
 │── .gitignore
 │── README.md
 
-yaml
-Copy code
 
 ---
 
